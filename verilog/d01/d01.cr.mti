@@ -1,0 +1,11 @@
+C:/workspace/verilog/d01/d01.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d01/d01.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module lab01_dataflow
+-- Compiling module lab01_struct
+-- Compiling module lab01_funct
+-- Compiling module testbench_lab1
+
+Top level modules:
+	testbench_lab1
+
+} {} {}}

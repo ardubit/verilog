@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\workspace\verilog\d02
+T_opt
+Z1 VC??3CSLQ0AH2GhAoWzNHL2
+Z2 04 14 4 work testbench_lab2 fast 0
+Z3 =6-080027f88429-639f3f5a-368-4bc
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5;42
+T_opt1
+Z7 Vhk59<ZTUEPM3mig?4RbI>1
+R2
+Z8 =1-080027f88429-639f3d7c-1c6-1b4
+Z9 o-quiet -auto_acc_if_foreign -work work +acc
+Z10 n@_opt1
+R6
+vmux4_dataflow
+Z11 I5ljVJR;^hKK:VoWTh49aH3
+Z12 V?WO>dZ=o9m[kHP:daIWQU0
+Z13 dC:\workspace\verilog\d02-4
+Z14 w1671380786
+Z15 8C:/workspace/verilog/d02-4/d02-4.v
+Z16 FC:/workspace/verilog/d02-4/d02-4.v
+L0 33
+Z17 OE;L;6.5;42
+r1
+31
+Z18 !s102 -nocovercells
+Z19 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z20 !s100 ?7G;K7UF`F>]C^LB_8o;]0
+!s85 0
+vmux4_funct
+Z21 I=h<=AioMVfDe?W@zaX4823
+Z22 VK?<NR4J:dY[bnFi86K]D?0
+R13
+R14
+R15
+R16
+L0 47
+R17
+r1
+31
+R18
+R19
+Z23 !s100 7dc`NHghRCFF5?XDc8Ozh0
+!s85 0
+vmux4_struct
+Z24 Ie=:c8kke36zLXjL^XmC1z0
+Z25 VMkJcK74nfScBHYiMe4`bB3
+R13
+R14
+R15
+R16
+L0 10
+R17
+r1
+31
+R18
+R19
+Z26 !s100 kLao>4_`Rl0R[heMSA^Vg3
+!s85 0
+vtestbench_lab2
+Z27 IfG`z:V]4b^;[k0Be^BBb51
+Z28 VWi[?ge^jE@SdA@Ne5P]Jc1
+R13
+R14
+R15
+R16
+L0 77
+R17
+r1
+31
+R18
+R19
+Z29 !s100 ^8<6eE_:VE2RcMXh6POAW2
+!s85 0

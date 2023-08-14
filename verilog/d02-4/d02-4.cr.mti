@@ -1,0 +1,38 @@
+C:/workspace/verilog/d02-4/playground.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d02-4/playground.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module pack_unpack
+
+Top level modules:
+	pack_unpack
+
+} {} {}} C:/workspace/verilog/d02-4/d02-4-mux.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d02-4/d02-4-mux.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module mux4_struct
+-- Compiling module mux4_dataflow
+-- Compiling module mux4_funct
+-- Compiling module testbench_mux
+
+Top level modules:
+	testbench_mux
+
+} {} {}} C:/workspace/verilog/d02-4/d02-4-demux.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d02-4/d02-4-demux.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module demux4_struct
+-- Compiling module demux4_dataflow
+-- Compiling module demux4_funct
+-- Compiling module testbench_demux
+
+Top level modules:
+	testbench_demux
+
+} {} {}} C:/workspace/verilog/d02-4/d02-4.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d02-4/d02-4.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module mux4_struct
+-- Compiling module mux4_dataflow
+-- Compiling module mux4_funct
+-- Compiling module testbench_lab2
+
+Top level modules:
+	testbench_lab2
+
+} {} {}}

@@ -1,0 +1,176 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\workspace\verilog\d02
+T_opt
+Z1 VC??3CSLQ0AH2GhAoWzNHL2
+Z2 04 14 4 work testbench_lab2 fast 0
+Z3 =6-080027f88429-639f3f5a-368-4bc
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5;42
+T_opt1
+Z7 VZSBoIYLINN5Za5C@W@>B>3
+Z8 04 15 4 work testbench_demux fast 0
+Z9 =3-080027f88429-639f9c6c-382-5e8
+Z10 o-quiet -auto_acc_if_foreign -work work +acc
+Z11 n@_opt1
+R6
+T_opt2
+Z12 V<?C]ljZz]7Rkkdm>;:EaQ0
+Z13 04 13 4 work testbench_mux fast 0
+Z14 =1-080027f88429-639f9d3b-be-574
+R10
+Z15 n@_opt2
+R6
+vdemux4_dataflow
+Z16 Ie=3?O4bVY09PAcZ>R5WgY1
+Z17 VZL2nJAzePObEJiX0;4?Uz0
+Z18 dC:\workspace\verilog\d02-4
+Z19 w1671404647
+Z20 8C:/workspace/verilog/d02-4/d02-4-demux.v
+Z21 FC:/workspace/verilog/d02-4/d02-4-demux.v
+L0 35
+Z22 OE;L;6.5;42
+r1
+31
+Z23 !s102 -nocovercells
+Z24 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z25 !s100 [?XMmd`3n[=K?@E@5i>b92
+!s85 0
+vdemux4_funct
+Z26 IAmfWYM;hj48nbni;]h8oZ1
+Z27 VR:@4Di>:X@mm_MY[iEc0H2
+R18
+R19
+R20
+R21
+L0 52
+R22
+r1
+31
+R23
+R24
+Z28 !s100 ]<;14Fl>7Beh25OBUPoKK1
+!s85 0
+vdemux4_struct
+Z29 IQK:JkYU[Ozj=gJ>feKeD33
+Z30 V;U4FnXY6Zo^3YefLz<nPi0
+R18
+R19
+R20
+R21
+L0 13
+R22
+r1
+31
+R23
+R24
+Z31 !s100 0khii;@;>ol8IPRPYi^L;1
+!s85 0
+vmux4_dataflow
+Z32 IVeHWz:8Bb4fl0koHkCeUz2
+Z33 V?WO>dZ=o9m[kHP:daIWQU0
+R18
+Z34 w1671401771
+Z35 8C:/workspace/verilog/d02-4/d02-4-mux.v
+Z36 FC:/workspace/verilog/d02-4/d02-4-mux.v
+L0 32
+R22
+r1
+31
+R23
+R24
+Z37 !s100 kWe=[INe`Q^YCI=kROO^B1
+!s85 0
+vmux4_funct
+Z38 IObWo3fmm0@SIi_I7H_Y=b0
+Z39 V[59S?XDTn:7P4MWI75QUY0
+R18
+R34
+R35
+R36
+L0 46
+R22
+r1
+31
+R23
+R24
+Z40 !s100 5^PDc^W1kU6R?Yk?A<DkX0
+!s85 0
+vmux4_struct
+Z41 I92gi8zPVS<VLBokF:fYUe2
+Z42 VMkJcK74nfScBHYiMe4`bB3
+R18
+R34
+R35
+R36
+L0 9
+R22
+r1
+31
+R23
+R24
+Z43 !s100 P?EFQ3DU=;B@Fc=?CXBnj3
+!s85 0
+vpack_unpack
+Z44 ImS]EWZ`SXlX:eHQT@T]dm2
+Z45 VAhnQji@fG@MP1ETINWKY<3
+R18
+Z46 w1671394813
+Z47 8C:/workspace/verilog/d02-4/playground.v
+Z48 FC:/workspace/verilog/d02-4/playground.v
+L0 4
+R22
+r1
+31
+R23
+R24
+Z49 !s100 1L7?FOKkn7LojfWF>ocA51
+!s85 0
+vtestbench_demux
+Z50 Ij;hQ:H5mYNn<2=>aiWeZY2
+Z51 VUL@Kdnil@A6?4k2X9o1n;1
+R18
+R19
+R20
+R21
+L0 84
+R22
+r1
+31
+R23
+R24
+Z52 !s100 >gT5c<QQX4j4zKjOAhUoh1
+!s85 0
+vtestbench_lab2
+Z53 IMXbB^5LaQYgXGjk5N55l73
+Z54 VWi[?ge^jE@SdA@Ne5P]Jc1
+R18
+Z55 w1671396300
+Z56 8C:/workspace/verilog/d02-4/d02-4.v
+Z57 FC:/workspace/verilog/d02-4/d02-4.v
+L0 79
+R22
+r1
+31
+R23
+R24
+Z58 !s100 4ITBZY6LzUZP6B4?>z]kc2
+!s85 0
+vtestbench_mux
+Z59 I_0<bd_ZI?CC4>>U9CcA`Q1
+Z60 V?eHf?`9z7ieG@aF7J3cKZ2
+R18
+R34
+R35
+R36
+L0 78
+R22
+r1
+31
+R23
+R24
+Z61 !s100 ]4Y[;Gz0_8zLBOS8R<Dzn0
+!s85 0

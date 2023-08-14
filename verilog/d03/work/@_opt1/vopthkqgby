@@ -1,0 +1,13 @@
+library verilog;
+use verilog.vl_types.all;
+entity h_Sum is
+    generic(
+        delay           : integer := 0
+    );
+    port(
+        s               : out    vl_logic;
+        c               : out    vl_logic;
+        a               : in     vl_logic;
+        b               : in     vl_logic
+    );
+end h_Sum;

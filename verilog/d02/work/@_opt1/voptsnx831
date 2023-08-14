@@ -1,0 +1,139 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\workspace\verilog\d01
+T_opt
+Z1 V]4hV_[3j:DETh8BbNUH>^1
+Z2 04 14 4 work testbench_lab2 fast 0
+Z3 =1-080027f88429-639cba34-3d9-74c
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5;42
+T_opt1
+Z7 VEWG4lmXRNeN2;eCcRW8:=1
+R2
+Z8 =4-080027f88429-639cbfb9-22d-7d0
+Z9 o-quiet -auto_acc_if_foreign -work work +acc
+Z10 n@_opt1
+R6
+vmux2_dataflow
+Z11 IgT?DKW12^`;>BUSeO0_GW0
+Z12 VT4:jRo^X5QPc92^N3zngP2
+Z13 dC:\workspace\verilog\d02
+Z14 w1671215657
+Z15 8C:/workspace/verilog/d02/d02.v
+Z16 FC:/workspace/verilog/d02/d02.v
+L0 25
+Z17 OE;L;6.5;42
+r1
+31
+Z18 !s102 -nocovercells
+Z19 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z20 !s100 2cEKLXB6Fn6cBlfC>3^142
+!s85 0
+vmux2_funct
+Z21 Ie_m]7CLf<UZ[m<1=IjS200
+Z22 VOYJ^Dco54MWBi`0G9Dkez1
+R13
+R14
+R15
+R16
+L0 36
+R17
+r1
+31
+R18
+R19
+Z23 !s100 2g^SZieJ3AYh^mlDA>Fgb3
+!s85 0
+vmux2_struct
+Z24 IG9HF^7KeZ5oKKGm>n;@2]2
+Z25 Voc3X4KfY0=QAaZ_aKnhON0
+R13
+R14
+R15
+R16
+L0 8
+R17
+r1
+31
+R18
+R19
+Z26 !s100 <Fod??72lNXV^:ZFA<cBf2
+!s85 0
+vmux4_dataflow
+Z27 I`d5AL::ZDWAOLa`eMzQi<3
+Z28 Vz7^UN<Uh1RMMn41k<OG030
+R13
+Z29 w1671140506
+R15
+R16
+L0 21
+R17
+r1
+31
+R18
+R19
+Z30 !s100 `JZmPE@<mnNPRhogU1GTY3
+!s85 0
+vmux4_funct
+Z31 ID8>IYKdNfTYhe:OAZJIO<2
+Z32 VYzI37:UeN5P8YS=GNGf9^0
+R13
+R29
+R15
+R16
+L0 32
+R17
+r1
+31
+R18
+R19
+Z33 !s100 i[DZ[^3WgACYZ;GKKLH883
+!s85 0
+vmux4_str
+Z34 Il>A<XN6CcMciaEZKU[JYm1
+Z35 V>:a^9cjSNfcXIncWl^U]70
+R13
+Z36 w1671138980
+R15
+R16
+L0 4
+R17
+r1
+31
+R18
+R19
+Z37 !s100 ZYMVzdg3m4Z9QIP8J:;Ca2
+!s85 0
+vmux4_struct
+Z38 IaN32SX1GKA;QT1NXh85=20
+Z39 V^AN:=ZKT`db[f1Z@A_FZc1
+R13
+R29
+R15
+R16
+L0 4
+R17
+r1
+31
+R18
+R19
+Z40 !s100 bCjm@1QcEo5cohkGm3Ubb3
+!s85 0
+vtestbench_lab2
+Z41 ILDKX;]PXG?lZ_GF_SEBZ`0
+Z42 VWi[?ge^jE@SdA@Ne5P]Jc1
+R13
+Z43 w1671217073
+R15
+R16
+L0 60
+R17
+r1
+31
+R18
+R19
+Z44 !s100 3iHjBWdn^NZRAlKA;bMFo2
+!s85 0

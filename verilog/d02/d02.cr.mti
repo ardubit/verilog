@@ -1,0 +1,11 @@
+C:/workspace/verilog/d02/d02.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d02/d02.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module mux2_struct
+-- Compiling module mux2_dataflow
+-- Compiling module mux2_funct
+-- Compiling module testbench_lab2
+
+Top level modules:
+	testbench_lab2
+
+} {} {}}

@@ -1,0 +1,34 @@
+C:/workspace/verilog/d03/d04_3.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d03/d04_3.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module bit_4_Sum_parr
+-- Compiling module tb_S_parr
+
+Top level modules:
+	bit_4_Sum_parr
+	tb_S_parr
+
+} {} {}} C:/workspace/verilog/d03/d03_1.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d03/d03_1.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module F_Sum
+-- Compiling module tb_S
+
+Top level modules:
+	tb_S
+
+} {} {}} C:/workspace/verilog/d03/d03.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d03/d03.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module h_Sum
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} C:/workspace/verilog/d03/d03_2.v {1 {vlog -work work -vopt -nocovercells C:/workspace/verilog/d03/d03_2.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module bit_4_Sum_ser
+-- Compiling module tb_S_ser
+
+Top level modules:
+	tb_S_ser
+
+} {} {}}

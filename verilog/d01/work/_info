@@ -1,0 +1,72 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech_6.5\win32
+T_opt
+VT]:`VVQE9]7V9c:5ZY_Cd3
+04 14 4 work testbench_lab1 fast 0
+=1-080027f88429-6397bc19-2ff-70c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;6.5;42
+vlab01_dataflow
+!s100 LeKc3814XA^EDCnB][fY11
+IO:n9m4GZOz5Vg_7;DDH]K1
+Vb;=iPEajMdiDN[gPX[Wbb1
+Z1 dC:\workspace\verilog\d01
+Z2 w1671140747
+Z3 8C:/workspace/verilog/d01/d01.v
+Z4 FC:/workspace/verilog/d01/d01.v
+L0 5
+Z5 OE;L;6.5;42
+r1
+!s85 0
+31
+Z6 !s102 -nocovercells
+Z7 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+vlab01_funct
+!s100 BdYlbYUl_hlXZlD]JG?nK0
+IhD24e_=JKSGVGGSP=e<Yh3
+VINiAh=YIW;ofIkeW2Lz=72
+R1
+R2
+R3
+R4
+L0 31
+R5
+r1
+!s85 0
+31
+R6
+R7
+vlab01_struct
+!s100 3P<KOLAl60JNo=OdC1g^c3
+IGgJ]Y<Fa?Yj7FndKoJ2Do2
+VoaM^RS=oBX<a;zBdERz<A2
+R1
+R2
+R3
+R4
+L0 16
+R5
+r1
+!s85 0
+31
+R6
+R7
+vtestbench_lab1
+!s100 B:WgjS3eZ:VCk=TZfNM163
+IzjIn1^Y<GM=VCY63AX:9d2
+VUY1621b1^0KkTN^T^RWN20
+R1
+R2
+R3
+R4
+L0 45
+R5
+r1
+!s85 0
+31
+R6
+R7

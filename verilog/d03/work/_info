@@ -1,0 +1,153 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\workspace\verilog\d02-4
+T_opt
+Z1 VGkSR[m[@i<nj56IEmXWj41
+Z2 04 5 4 work h_Sum fast 0
+Z3 =1-080027f88429-63cf189e-1af-e7c
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;6.5;42
+T_opt1
+VDEYCkBRz`<]iE_9J;[h393
+04 8 4 work tb_S_ser fast 0
+Z7 =1-080027f88429-63cf434c-145-e2c
+R4
+Z8 n@_opt1
+R6
+T_opt2
+Z9 V[lnoFJTVB:9AmdUk43S492
+Z10 04 4 4 work tb_S fast 0
+Z11 =1-080027f88429-63cf427f-9b-d1c
+R4
+Z12 n@_opt2
+R6
+vbit_4_Sum_parr
+Z13 INmb1enRQ54=R3<@SkUeE11
+Z14 Vd>^^nLKhRm1Bl1c[e]W6O3
+Z15 dC:\workspace\verilog\d03
+Z16 w1674527083
+Z17 8C:/workspace/verilog/d03/d04_3.v
+Z18 FC:/workspace/verilog/d03/d04_3.v
+L0 3
+Z19 OE;L;6.5;42
+r1
+31
+Z20 !s102 -nocovercells
+Z21 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z22 nbit_4_@sum_parr
+Z23 !s100 =400znDKY`<?1N:RCV:ca1
+!s85 0
+vbit_4_Sum_ser
+Z24 I1g`o2`Rm0k:^Hh<;EL::h2
+Z25 V8:okj54R_kehTF?P];I6H0
+R15
+Z26 w1674524164
+Z27 8C:/workspace/verilog/d03/d03_2.v
+Z28 FC:/workspace/verilog/d03/d03_2.v
+L0 3
+R19
+r1
+31
+R20
+R21
+Z29 nbit_4_@sum_ser
+Z30 !s100 ad;8If6B5R2h^3YzAKzP60
+!s85 0
+vF_Sum
+Z31 I8ZFZdh<fc7=R]fR=@WXb[2
+Z32 V4UeKY_azL90AASeGZoiB20
+R15
+Z33 w1674519538
+Z34 8C:/workspace/verilog/d03/d03_1.v
+Z35 FC:/workspace/verilog/d03/d03_1.v
+L0 3
+R19
+r1
+31
+R20
+R21
+Z36 n@f_@sum
+Z37 !s100 aSZFmD>bXS8YjdEK^UM:Q0
+!s85 0
+vh_Sum
+Z38 ILi85V?DbQJV?XGlC@1Tij2
+Z39 VFGNzfI1KHon^WDzJ1FG?E0
+R15
+Z40 w1674526855
+Z41 8C:/workspace/verilog/d03/d03.v
+Z42 FC:/workspace/verilog/d03/d03.v
+L0 3
+R19
+r1
+31
+R20
+R21
+Z43 nh_@sum
+Z44 !s100 @7DTA>f=ENbJQ^FTN[9cO3
+!s85 0
+vtb
+Z45 Inj4hi0?eBn3_nT2R[2B_e1
+Z46 V`P21fQ5jE[k:jiPnA7Y2>3
+R15
+R40
+R41
+R42
+L0 13
+R19
+r1
+31
+R20
+R21
+Z47 !s100 EWC`z^SQlM3M]G3m8PHa91
+!s85 0
+vtb_S
+Z48 Iz<VGH]O^nCjBXLb_L_hij2
+Z49 VBgUX9UO8UJiQAZW`046:V2
+R15
+R33
+R34
+R35
+L0 14
+R19
+r1
+31
+R20
+R21
+Z50 ntb_@s
+Z51 !s100 QQ30]Q?XB74oK782878DR0
+!s85 0
+vtb_S_parr
+Z52 IC>FZ;7^5=Sh@^S:`I:7Lk1
+Z53 V]PGV[K64iHdMD0aS3fSDa3
+R15
+R16
+R17
+R18
+L0 17
+R19
+r1
+31
+R20
+R21
+Z54 ntb_@s_parr
+Z55 !s100 h^III7UYBCR11>IdKO6@00
+!s85 0
+vtb_S_ser
+Z56 IlZ^WF;<zgIZaMIo?PI]<k0
+Z57 V1F34ka]XWl4hSW[5I^7zO3
+R15
+R26
+R27
+R28
+L0 17
+R19
+r1
+31
+R20
+R21
+Z58 ntb_@s_ser
+Z59 !s100 cdb8YA7@Pj@D3VRP1LddT3
+!s85 0
