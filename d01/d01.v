@@ -10,7 +10,6 @@ module lab01_dataflow (output Y,
   assign Y = (!(A || B)) * (!(C * D));
 endmodule
 
-
 // Struct. Thinking of "Connecting blocks"
 // =======================================
 module lab01_struct (output Y, 
@@ -24,7 +23,6 @@ module lab01_struct (output Y,
   nand dd2 (w2, C, D);
   and dd3 (Y, w1, w2);
 endmodule
-
 
 // Functional. Thinking of "How to Programm"
 // =======================================
@@ -63,4 +61,3 @@ module testbench_lab1;
     end
   end
 endmodule
-

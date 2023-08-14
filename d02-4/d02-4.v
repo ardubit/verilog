@@ -27,7 +27,6 @@ module mux4_struct (output Y,
   or d6(Y, w2, w3, w4, w5);
 endmodule
 
-
 // Data Flow
 // ======================================
 module mux4_dataflow (output Y, 
@@ -40,7 +39,6 @@ module mux4_dataflow (output Y,
   // "assign" always generate some digital circuit                    
   assign Y = ((!S0)*(!S1)*A) || (S0*(!S1)*B) || ((!S0)*S1*C) || (S0*S1*D);
 endmodule
-
 
 // Functional
 // ======================================
@@ -68,7 +66,6 @@ module mux4_funct(output reg Y,
     endcase
   end
 endmodule
-
 
 // Testbench
 // =======================================

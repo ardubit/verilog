@@ -29,7 +29,6 @@ module demux4_struct (output A,
   and d5(D, S0, S1, Y);
 endmodule
 
-
 // Data Flow
 // ======================================
 module demux4_dataflow (output A, 
@@ -45,7 +44,6 @@ module demux4_dataflow (output A,
   assign C = ((!S0)*S1*Y);
   assign D = (S0*S1*Y);
 endmodule
-
 
 // Functional
 // ======================================
@@ -73,7 +71,6 @@ module demux4_funct(output reg A,
     endcase
   end
 endmodule
-
 
 // Testbench
 // =======================================
